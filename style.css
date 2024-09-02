@@ -1,0 +1,910 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*first project start*/
+.full_content{
+    margin-left: 10%;
+    width: 86%;
+    background-color: #ddd;
+}
+.full_content h5 {
+	margin-left: 113px;
+	margin-top: 58px;
+	font-size: 20px;
+	font-weight: 200;
+    color: #715b3d;
+}
+.area{
+    background-color: antiquewhite;
+}
+.text img{
+    width: 30%;
+    margin-left: 70%;
+}
+
+.one h3 {
+	position: relative;
+	bottom: 260px;
+	margin-left: 186px;
+	text-transform: uppercase;
+	font-size: 24px;
+	color: #756767;
+}
+.one h5 {
+	position: relative;
+	margin-left: 237px;
+	text-transform: uppercase;
+	font-size: 31px;
+	bottom: 279px;
+}
+.two p {
+	position: relative;
+	bottom: 201px;
+	margin-left: 125px;
+}
+.two a{
+    text-decoration: none;
+}
+.two h6 {
+	position: relative;
+	bottom: 165px;
+	margin-left: 114px;
+}
+.two h6 a {
+	border: 1px solid red;
+    border-radius: 10px;
+	padding: 5px 18px;
+	font-size: 24px;
+	text-transform: uppercase;
+}
+.two h6 a:hover{
+    background-color: #715b3d;
+}
+
+/*first project end*/
+
+/*second project start*/
+
+.arial{
+    margin-left: 10%;
+    width: 86%;
+    background-color: #ddd;
+}
+.header{
+	height: 660px;
+	background-image: url("./image/back.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-blend-mode: multiply;
+	background-color: #39373778;
+}
+.aque h1 {
+	text-align: center;
+	font-size: 33px;
+	padding: 47px 0px;
+	color: white;
+}
+.aque p {
+	text-align: center;
+	font-size: 33px;
+	padding: 0px 0px;
+	color: white;
+	margin-top: -34px;
+}
+.continue img{
+	width: 5%;
+	margin-left: 5%;
+	margin-top: 10px;
+}
+.num2 img {
+	margin-left: 33%;
+	position: relative;
+	top: -174px;
+	margin-top: 2px;
+}
+.num3 img {
+	margin-left: 62%;
+	position: relative;
+	top: -343px;
+	margin-top: -3px;
+}
+.num4 img {
+	margin-left: 89%;
+	position: relative;
+	top: -513px;
+	margin-top: 0px;
+}
+.num1 h1 {
+	margin-left: 4%;
+	font-size: 32px;
+	color: white;
+	text-transform: capitalize;
+}
+.num1 p{
+	color: white;
+	margin-left: 4%;
+}
+.num1 a{
+	margin-left: 9%;
+	position: relative;
+	top: 26px;
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	border: 1px solid #ddd;
+	padding: 10px 5px;
+	border-radius: 10px;
+}
+.num2 h1 {
+	margin-left: 30%;
+	font-size: 32px;
+	color: white;
+	text-transform: capitalize;
+	position: relative;
+	top: -173px;
+}
+.num2 p {
+	color: white;
+	margin-left: 30%;
+	position: relative;
+	top: -173px;
+}
+.num2 a{
+	margin-left: 35%;
+	position: relative;
+	top: -150px;
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	border: 1px solid #ddd;
+	padding: 10px 5px;
+	border-radius: 10px;
+}
+.num3 h1 {
+	margin-left: 59%;
+	font-size: 32px;
+	color: white;
+	text-transform: capitalize;
+	position: relative;
+	top: -338px;
+}
+.num3 p {
+	color: white;
+	margin-left: 56%;
+	position: relative;
+	top: -340px;
+}
+.num3 a{
+	margin-left: 60%;
+	position: relative;
+	top: -318px;
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	border: 1px solid #ddd;
+	padding: 10px 5px;
+	border-radius: 10px;
+}
+.num4 h1 {
+	margin-left: 85%;
+	font-size: 32px;
+	color: white;
+	text-transform: capitalize;
+	position: relative;
+	top: -510px;
+}
+.num4 p {
+	color: white;
+	margin-left: 81%;
+	position: relative;
+	top: -510px;
+}
+.num4 a{
+	margin-left: 88%;
+	position: relative;
+	top: -488px;
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	border: 1px solid #ddd;
+	padding: 10px 5px;
+	border-radius: 10px;
+}
+a:hover{
+	background-color: #715b3d;
+	color: red;
+}
+
+.freepic p {
+	margin-left: 41%;
+	position: relative;
+	top: -338px;
+	color: white;
+	font-size: 27px;
+}
+.freepic a{
+	text-decoration: none;
+}
+/*second project end*/
+
+/*third project start*/
+.png{
+    margin-left: 10%;
+    width: 86%;
+    background-color: #ddd;
+	display: flex;
+}
+.document img{
+	width: 577px;
+}
+.type{
+	margin-top: 16%;
+	margin-left: 16%;
+}
+.type h1 {
+	position: relative;
+	top: -56px;
+	left: 40px;
+	font-weight: 500;
+}
+.type h3 {
+	position: relative;
+	top: -46px;
+	font-weight: 100;
+}
+.type h4 {
+	position: relative;
+	top: -30px;
+	left: 13px;
+	font-size: 19px;
+	font-weight: 400;
+}
+.link p {
+	margin-left: 28%;
+	font-size: 23px;
+	font-style: italic;
+}
+.link p a{
+	text-decoration: none;
+}
+/*third project end
+
+/*fourth project start*/
+
+.four{
+    margin-left: 10%;
+    width: 86%;
+    background-color: #ddd;
+}
+.knife{
+	background-image: url("./image/laptop.jpg\ 01.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: multiply;
+	background-color: #00000052;
+}
+.fife{
+	color: white;
+}
+.fife h1 {
+	margin-left: 62px;
+	font-weight: 500;
+	font-size: 26px;
+	width: 418px;
+	position: relative;
+	top: 39px;
+}
+.fife h2 {
+	margin-left: 592px;
+	font-weight: 500;
+	font-size: 26px;
+	width: 418px;
+	position: relative;
+	top: -112px;
+}
+.six h3 {
+	margin-left: 58px;
+	font-weight: 500;
+	font-size: 26px;
+	width: 418px;
+	position: relative;
+	top: -19px;
+	color: white;
+}
+.six h4 {
+	margin-left: 592px;
+	font-weight: 500;
+	font-size: 26px;
+	width: 418px;
+	position: relative;
+	top: -164px;
+	color: white;
+}
+.seven h5 {
+	margin-left: 56px;
+	font-weight: 500;
+	font-size: 26px;
+	width: 418px;
+	position: relative;
+	top: -67px;
+	color: white;
+}
+.seven h6 {
+	margin-left: 589px;
+	font-weight: 500;
+	font-size: 26px;
+	width: 418px;
+	position: relative;
+	top: -217px;
+	color: white;
+}
+.from p {
+	text-align: center;
+	font-size: 25px;
+	position: relative;
+	top: -107px;
+	color: white;
+	font-style: italic;
+}
+.from p a{
+	text-decoration: none;
+}
+/*fourth project end*/
+
+/*five project start*/
+.gorgious{
+    margin-left: 10%;
+    width: 86%;
+    background-color: #ddd;
+}
+.idefy{
+	width: 100%;
+	height: 315px;
+	background-color: rgb(193, 25, 25);
+}
+.idefy h1 {
+	text-align: center;
+	position: relative;
+	top: 32px;
+	color: white;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 20px;
+}
+.idefy p {
+	text-align: center;
+	position: relative;
+	top: 51px;
+	color: white;
+	font-family: 'Times New Roman', Times, serif;
+	width: 621px;
+	margin-left: 281px;
+}
+.title {
+	width: 80%;
+	background-color: #ddd;
+	position: relative;
+	top: 115px;
+	left: 82px;
+	padding: 52px 177px;
+	border-radius: 5px;
+}
+.title a {
+	margin-left: 19px;
+	border: 1px solid red;
+	padding: 7px 10px;
+	border-radius: 5px;
+	text-decoration: none;
+	background-color: red;
+	color: #ddd;
+}
+/*five project end*/
+
+/*six project start*/
+
+.baby{
+    margin-left: 10%;
+    width: 86%;
+	height: 750px;
+    background-color: #ddd;
+}
+.tile h1 {
+	text-align: center;
+	font-size: 37px;
+	position: relative;
+	top: 30px;
+	font-weight: 100;
+}
+.tile hr {
+	width: 55%;
+	margin-left: 24%;
+	position: relative;
+	top: 38px;
+}
+.tile h3 {
+	position: relative;
+	top: 37px;
+	margin-left: 41%;
+	font-size: 24px;
+	font-weight: 200;
+}
+.tile h5 {
+	position: relative;
+	top: 37px;
+	margin-left: 12%;
+	font-size: 24px;
+	font-weight: 200;
+}
+.amaze img{
+	margin-left: 20px;
+	width: 16rem;
+	position: relative;
+	top: 66px;
+}
+.amaze .img01 {
+	width: 18%;
+	margin-left: 10%;
+}
+
+.amaze .img02 {
+	width: 212px;
+	height: 261px;
+}
+.amaze .img03 {
+	width: 18%;
+}
+.amaze .img04 {
+	width: 16%;
+}
+.discretion img{
+	width: 16rem;
+	position: relative;
+	top: 99px;
+	margin-left: 21px;
+}
+.discretion .img05{
+	width: 17%;
+	margin-left: 109px;
+}
+.discretion .img06 {
+	width: 17%;
+}
+.discretion .img07 {
+	width: 221px;
+}
+.discretion .img08{
+	width: 17%;
+}
+/*six project end*/
+
+/*seven project start*/
+.git{
+    margin-left: 10%;
+    width: 86%;
+	height: 597px;
+	background-color: #313030;
+}
+.mine {
+	text-align: center;
+	line-height: 40px;
+	font-size: 20px;
+	color: crimson;
+}
+.mine a{
+	text-decoration: none;
+}
+.boi img,.data img,.token img,.pen img{
+	width: 23%;
+}
+.con,.pic,.coil,.dolor {
+	width: 23%;
+	background-color: #ddd;
+	height: 176px;
+	position: relative;
+	top: -4px;
+	line-height: 37px;
+}
+.data img {
+	position: relative;
+	left: 270px;
+	top: -349px;
+}
+.pic {
+	position: relative;
+	left: 270px;
+	top: -384px;
+}
+.token img {
+	position: relative;
+	left: 546px;
+	top: -730px;
+	height: 219px;
+}
+.coil {
+	position: relative;
+	left: 546px;
+	top: -785px;
+}
+.pen img {
+	position: relative;
+	left: 818px;
+	top: -1130px;
+}
+.dolor {
+	position: relative;
+	left: 818px;
+	top: -1134px;
+}
+a{
+	text-decoration: none;
+}
+.angre {
+	position: relative;
+	top: -1063px;
+	margin-left: 483px;
+}
+.angre a{
+	border: 1px solid white;
+	padding: 10px 5px;
+	border-radius: 5px;
+}
+/*seven project end*/
+
+/*eight project start*/
+
+.support{
+    margin-left: 10%;
+    width: 86%;
+	height: 579px;
+    background-color: #ddd;
+}
+.dam {
+	line-height: 63px;
+	margin-left: 89px;
+	font-size: 26px;
+	color: white;
+}
+.sit p {
+	width: 329px;
+	margin-left: 81px;
+	font-size: 20px;
+}
+.order{
+	margin-left: 78px;
+	position: relative;
+	top: 20px;
+}
+.order p {
+	position: relative;
+	top: 10px;
+	font-size: 18px;
+}
+.book {
+	margin-left: 69px;
+	position: relative;
+	top: 45px;
+}
+.book a {
+	border: 1px solid black;
+	padding: 10px 5px;
+	background-color: #715b3d;
+	border-radius: 5px;
+}
+.amet p {
+	width: 544px;
+	position: relative;
+	left: 504px;
+	top: -190px;
+}
+.hate img {
+	width: 30%;
+	position: relative;
+	left: 528px;
+	top: -136px;
+}
+/*eight project end*/
+
+/*nine project start*/
+.various{
+    margin-left: 10%;
+    width: 86%;
+    background-color: #ddd;
+}
+.vbdv{
+	height: 714px;
+	background-image: url("./image/vbvb.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: multiply;
+	background-color: #0000008c;
+}
+.taks{
+	background-color: #ffffffa3;
+	width: 100%;
+	height: 208px;
+	position: relative;
+	top: 221px;
+}
+.taks h1 {
+	line-height: 63px;
+	font-size: 32px;
+	margin-left: 50px;
+}
+.taks p {
+	width: 501px;
+	margin-left: 50px;
+}
+.taks h4 {
+	margin-left: 50px;
+	font-weight: 200;
+	line-height: 40px;
+}
+.sign h6 {
+	margin-left: 684px;
+	position: relative;
+	top: -149px;
+	font-size: 29px;
+	font-weight: 200;
+}
+.sign h5 {
+	margin-left: 684px;
+	position: relative;
+	top: -109px;
+	font-size: 16px;
+	font-weight: 300;
+}
+.sign a {
+	margin-left: 788px;
+	position: relative;
+	top: -66px;
+	font-size: 22px;
+	border: 1px solid black;
+	padding: 10px 40px;
+	border-radius: 5px;
+	background-color: crimson;
+}
+.can {
+	width: 100%;
+	height: 153px;
+	background-color: #ff00008f;
+	position: relative;
+	top: 285px;
+}
+.can h2 {
+	margin-left: 60px;
+	line-height: 67px;
+	font-size: 28px;
+}
+.sun{
+	margin-left: 60px;
+}
+.can h3 {
+	margin-left: 393px;
+	position: relative;
+	top: -83px;
+	font-size: 24px;
+}
+.ten{
+	margin-left: 393px;
+	position: relative;
+	top: -66px;
+}
+.can h4 {
+	margin-left: 701px;
+	position: relative;
+	top: -146px;
+	font-size: 24px;
+}
+.sum {
+	margin-left: 714px;
+	position: relative;
+	top: -126px;
+}
+/*nine project end*/
+
+/*ten project start*/
+
+.last{
+    margin-left: 10%;
+    width: 86%;
+    background-color: #000000de;
+	height: 200px;
+}
+.sample{
+	text-align: center;
+}
+.sample h5 {
+	color: white;
+	line-height: 85px;
+	font-size: 20px;
+	font-weight: 300;
+}
+.element h6 {
+	color: white;
+	position: relative;
+	top: -17px;
+	margin-left: 221px;
+	font-size: 15px;
+	font-weight: 200;
+}
+.element .software {
+	position: relative;
+	top: -35px;
+	margin-left: 494px;
+}
+.element{
+	margin-left: -251px;
+}
+.element a{
+	color: white;
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
